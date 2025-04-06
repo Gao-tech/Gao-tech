@@ -31,7 +31,7 @@ I also enjoy sharing my knowledge through writing and blogging. Here are some of
 
 - 📝 [A backend project for voting system](https://github.com/Gao-tech/voting_app_fastapi) - Using Python FastAPI as framework, PostgreSQL as database, and postman to test APIs.
 - 📖 [A backend project for order and allocation maangement](https://github.com/Gao-tech/order_inventory_fastapi) - Using Python FastAPI as framework, PostgreSQL, and postman to test APIs. It is also deployed on AWS using SAM framework, lambda functions, API GateWay, and developt from PostgreSQL to NosqlDynamoDB database.
-- 🗒️ [Data Visualization with Python](https://medium.com/@silentBob/data-visualization-with-python) - Exploring the power of data visualization using Python libraries.
+- 🗒️ [Data Pipeline on GCP](https://www.linkedin.com/pulse/copy-one-project-data-analytics-study-connecting-ga4-jie-gao-jessi--bgtjf/?trackingId=loqN%2FN4oRpSO758%2BpeCJRA%3D%3D) - Exploring the power of data pipeline using Python libraries.
 
 ## 📫 Connect with Me
 
