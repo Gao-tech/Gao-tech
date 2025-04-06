@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About Me 😄
 
-Hi, I'm Gao Jie(Jessi)! I'm a passionate developer with a knack for creating efficient, scalable solutions. My journey in tech spans backend development, AWS Serverless Application Model, and data analysis. I'm always excited to learn new technologies and collaborate on exciting projects.
+Hi, I'm Gao Jie(Jessi)! I'm a passionate backend developer with a knack for creating efficient, scalable solutions. My journey in tech spans backend development, AWS Serverless Application Model, and data analysis. I'm always excited to learn new technologies and collaborate on exciting projects.
 
 - 🌱 I’m currently exploring **Nodejs** and **AWS in depth**.
 - 🤝 I’m looking to collaborate on **open-source projects** and **innovative software development**.
