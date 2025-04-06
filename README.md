@@ -35,7 +35,7 @@ I also enjoy sharing my knowledge through writing and blogging. Here are some of
 
 ## 📫 Connect with Me
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/10gaojie01/) or check out my [personal website](https://silentbob.dev).
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/10gaojie01/) or check out my [personal website](https://2024.jecan.eu/).
 
 ## 🛠️ Tools I Use
 
