@@ -25,7 +25,7 @@ Hi, I'm Gao Jie(Jessi)! I'm a passionate backend developer with a knack for crea
 - 📫 How to reach me: [gaojienova@gmail.com](gaojienovab@gmail.com)
 - ⚡ Fun fact: I like soving problem just as people don't like them!
 
-## 📚 My Writing & Content
+## 📚 My Project & Writing
 
 I also enjoy sharing my knowledge through writing and blogging. Here are some of my latest posts:
 
