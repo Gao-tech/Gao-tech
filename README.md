@@ -19,11 +19,12 @@ Here are some ideas to get you started:
 
 Hi, I'm Gao Jie(Jessi)! I'm a passionate backend developer with a knack for creating efficient, scalable solutions. My journey in tech spans backend development, AWS Serverless Application Model, and data analysis. I'm always excited to learn new technologies and collaborate on exciting projects.
 
-- 🌱 I’m currently exploring **Nodejs** and **AWS in depth**.
-- 🤝 I’m looking to collaborate on **open-source projects** and **innovative software development**.
-- 💬 Ask me about **Python**, **Nodejs**, and **SAM on AWS**.
+- 🌱 I’m currently exploring **Python FastAPI**,  **Vibe coding** and **AWS in depth**.
+- 🤝 I’m developing **AI-powered Platform** and **innovative software development**.
+- 💬 Ask me about **Python**, **AI Agent**, and **AWS**. 
 - 📫 How to reach me: [gaojienova@gmail.com](gaojienovab@gmail.com)
-- ⚡ Fun fact: I like soving problem just as people don't like them!
+- ⚡  Please sign-up on our platform. I promist there are surprises inside.
+     https://studio--knowledgeflow-q5d3v.us-central1.hosted.app/ 
 
 ## 📚 My Project & Writing
 
