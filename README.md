@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 ## About Me 😄
 
-Hi, I'm Gao Jie(Jessi)! I'm a passionate backend developer with a knack for creating efficient, scalable solutions. My journey in tech spans backend development, AWS Serverless Application Model, and data analysis. I'm always excited to learn new technologies and collaborate on exciting projects.
-
+Hi, I'm Gao Jie(Jessi)! I'm a passionate backend developer with a knack for creating efficient, scalable solutions. My journey in tech spans backend development,Vibe coding with AI, AWS Servives, AI-drived software product development and data analysis. I'm always excited to learn new technologies.
 - 🌱 I’m currently exploring **Python FastAPI**,  **Vibe coding** and **AWS in depth**.
 - 🤝 I’m developing **AI-powered Platform** and **innovative software development**.
 - 💬 Ask me about **Python**, **AI Agent**, and **AWS**. 
@@ -36,7 +35,7 @@ I also enjoy sharing my knowledge through writing and blogging. Here are some of
 
 ## 📫 Connect with Me
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/10gaojie01/) or check out my [personal website](https://2024.jecan.eu/).
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/10gaojie01/) or check out our deta product in another UI design: https://rag-nine-theta.vercel.app/.
 
 ## 🛠️ Tools I Use
 
