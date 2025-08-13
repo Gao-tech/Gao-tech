@@ -23,7 +23,7 @@ Hi, I'm Gao Jie(Jessi)! I'm a passionate backend developer with a knack for crea
 - 💬 Ask me about **Python**, **AI Agent**, and **AWS**. 
 - 📫 How to reach me: [gaojienova@gmail.com](gaojienovab@gmail.com)
 - ⚡  Please sign-up on our platform. I promist there are surprises inside.
-     https://studio--knowledgeflow-q5d3v.us-central1.hosted.app/ 
+- 📝  https://studio--knowledgeflow-q5d3v.us-central1.hosted.app/ 
 
 ## 📚 My Project & Writing
 
