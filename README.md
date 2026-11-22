@@ -1,52 +1,34 @@
-## Hi there 👋
+# Jie Gao (Jessi)
 
-<!--
-**Gao-tech/Gao-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend & AI Platform Engineer · Founder, Jecan AB**  
+Based in Malmö, Sweden · [LinkedIn](https://www.linkedin.com/in/10gaojie01/) · [Email](mailto:gaojienova@gmail.com)
 
-Here are some ideas to get you started:
+I build backend and AI platform systems, with a particular interest in **AI security, deterministic controls, and evidence-based evaluation**. My work combines production software engineering with a background in automotive manufacturing and quality systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current work
 
-## About Me 😄
+- **Inscripta — AI governance and security (Jecan AB).** I design and build a private, multi-tenant platform for governing AI-assisted workflows. Its current implementation focuses on prompt-intake controls, deterministic policy checks, human review, and tamper-evident audit trails. I am investigating stronger controls for agent tool use and AI supply-chain risks; those extensions are research and development work, not claims of complete protection.
+- **Sapio / Funky Chicken AI Solutions — backend and platform engineering.** I work on an AI-first B2B platform, including TypeScript/Node.js, PostgreSQL, European cloud deployments, Microsoft Entra authentication, database reliability, and Playwright-based release testing.
+- **Open Horizons proof of concept (Jecan AB).** I am developing a separate regulation-to-constraint workflow for international tax-law analysis, where domain experts review proposed rules before they are applied.
 
-Hi, I'm Gao Jie(Jessi)! I'm a passionate backend developer with a knack for creating efficient, scalable solutions. My journey in tech spans backend development,Vibe coding with AI, AWS Servives, AI-drived software product development and data analysis. I'm always excited to learn new technologies.
-- 🌱 I’m currently exploring **Python FastAPI**,  **Vibe coding** and **AWS in depth**.
-- 🤝 I’m developing **AI-powered Platform** and **innovative software development**.
-- 💬 Ask me about **Python**, **AI Agent**, and **AWS**. 
-- 📫 How to reach me: [gaojienova@gmail.com](gaojienovab@gmail.com)
-- ⚡  Please sign-up on our platform. I promist there are surprises inside.
-- 📝  https://studio--knowledgeflow-q5d3v.us-central1.hosted.app/ 
+## Technical writing and public projects
 
-## 📚 My Project & Writing
+- [Building Deterministic AI Governance Pipelines with Amazon Nova](https://builder.aws.com/content/3B1meX6TKEMWSBMJ22azG6Z9hfR/building-deterministic-ai-governance-pipelines-with-amazon-nova) — my article on policy enforcement, human review, and auditability in AI-assisted systems.
+- [Voting system — FastAPI](https://github.com/Gao-tech/voting_app_fastapi) — API design, authentication, PostgreSQL, and structured business rules.
+- [Order and inventory backend](https://github.com/Gao-tech/order_inventory_fastapi) — backend workflows and data modeling.
 
-I also enjoy sharing my knowledge through writing and blogging. Here are some of my latest posts:
+**Note:** My current Inscripta security implementation is maintained in private repositories while the product is under development. The public repositories above include earlier engineering work.
 
-- 📝 [A backend project for voting system](https://github.com/Gao-tech/voting_app_fastapi) - Using Python FastAPI as framework, PostgreSQL as database, and postman to test APIs.
-- 📖 [A backend project for order and allocation maangement](https://github.com/Gao-tech/order_inventory_fastapi) - Using Python FastAPI as framework, PostgreSQL, and postman to test APIs. It is also deployed on AWS using SAM framework, lambda functions, API GateWay, and developt from PostgreSQL to NosqlDynamoDB database.
-- 🗒️ [Data Pipeline on GCP](https://www.linkedin.com/pulse/copy-one-project-data-analytics-study-connecting-ga4-jie-gao-jessi--bgtjf/?trackingId=loqN%2FN4oRpSO758%2BpeCJRA%3D%3D) - Exploring the power of data pipeline using Python libraries.
+## Questions I am exploring
 
-## 📫 Connect with Me
+- How much protection do deterministic controls provide against adaptive or misbehaving AI agents?
+- Where do rule-based controls and model-based monitors have different blind spots?
+- Can smaller, locally deployed ML classifiers reduce LLM dependence without compromising detection quality?
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/10gaojie01/) or check out our deta product in another UI design: https://rag-nine-theta.vercel.app/.
+## Technologies and background
 
-## 🛠️ Tools I Use
+**Engineering:** Python, FastAPI, TypeScript/Node.js, PostgreSQL, Redis, Docker, AWS, Azure, GitHub Actions, pytest, Playwright.  
+**Focus:** AI governance, adversarial testing, API and cloud security, auditability, reliable multi-tenant systems.  
+**Earlier experience:** Automotive manufacturing project management and quality engineering; BA in Human Rights (Malmö University); MBA (Shanghai University, with exchange studies at Uppsala University).
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="react" width="30" height="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="30" height="30"/>
-</p>
+I am interested in research and engineering collaborations on **AI control, adversarial robustness, and practical safety evaluation**.
